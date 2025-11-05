@@ -22,7 +22,7 @@ func main() {
 	case 2:
 		fmt.Printf("星期2")
 	case 3:
-		fmt.Printf("星期3")
+		fmt.Printf("星期34")
 	default:
 		fmt.Printf("不知道")
 	}
