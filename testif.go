@@ -18,7 +18,7 @@ func main() {
 	a := 6
 	switch a {
 	case 1:
-		fmt.Printf("星期1")
+		fmt.Printf("星期11")
 	case 2:
 		fmt.Printf("星期2")
 	case 3:
