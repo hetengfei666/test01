@@ -15,4 +15,5 @@ func main() {
 	a, b := 2, 3
 	ret := copmax(a, b)
 	fmt.Printf("%d\n", ret)
+	fmt.Print(a)
 }
